@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		018011662732097F00405C2B /* ContantKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018011652732097F00405C2B /* ContantKeys.swift */; };
 		01D689CB272F847200ABE3AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D689CA272F847200ABE3AF /* AppDelegate.swift */; };
 		01D689CD272F847200ABE3AF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D689CC272F847200ABE3AF /* SceneDelegate.swift */; };
 		01D689CF272F847200ABE3AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D689CE272F847200ABE3AF /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		018011652732097F00405C2B /* ContantKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContantKeys.swift; sourceTree = "<group>"; };
 		01D689C7272F847200ABE3AF /* NewsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01D689CA272F847200ABE3AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01D689CC272F847200ABE3AF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				01D689D5272F847500ABE3AF /* LaunchScreen.storyboard */,
 				01D689D8272F847500ABE3AF /* Info.plist */,
 				01D689DE272F8A8E00ABE3AF /* APICaller.swift */,
+				018011652732097F00405C2B /* ContantKeys.swift */,
 			);
 			path = NewsApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				018011662732097F00405C2B /* ContantKeys.swift in Sources */,
 				01D689CF272F847200ABE3AF /* ViewController.swift in Sources */,
 				01D689CB272F847200ABE3AF /* AppDelegate.swift in Sources */,
 				01D689CD272F847200ABE3AF /* SceneDelegate.swift in Sources */,
